@@ -55,7 +55,7 @@ int main()
 {
     printf("Przyjmuje ze numery kolumn i wierszy naleza do zbioru {0,...,N-1}\n");
     printf("Polozenie hetmanow na szachownicy:\n");
-    printf("Kazdy ciag cyfr to rozwiazanie zawierajace numery wierszow w kolejnych kolumnach\n");
+    printf("Kazdy ciag cyfr to rozwiazanie zawierajace numery wierszy w kolejnych kolumnach\n");
     //np. jedyne rozwiazanie symetryczne dla n=8 bedzie mialo postac 42061753
 
     int liczbaHetmanow;
