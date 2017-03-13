@@ -28,8 +28,7 @@ void Het(int liczbaHetmanow) //funckja wprowadzajaca
     HetDwa(0,k,w,p1,p2, liczbaHetmanow); //wywoluje funckje Hetdwa dla kolumny o numerze 0
 }
 
-void HetDwa(int i, int k[], int w[], int p1[], int p2[], int
-liczbaHetmanow) //funkcja glowna, ustawia hetmanow i liczy rozw
+void HetDwa(int i, int k[], int w[], int p1[], int p2[], intliczbaHetmanow) //funkcja glowna, ustawia hetmanow i liczy rozw
 {
     int j, l; // j to numer wiersza, l jest pomocnicze w drugiej petli
     int a = liczbaHetmanow -1;
