@@ -53,7 +53,7 @@ void HetDwa(int i, int k[], int w[], int p1[], int p2[], int liczbaHetmanow) //f
 
 int main()
 {
-    printf("Przyjmuje ze numery kolumn i wierszy naleza do zbioru {0,...N-1}\n");
+    printf("Przyjmuje ze numery kolumn i wierszy naleza do zbioru {0,...,N-1}\n");
     printf("Polozenie hetmanow na szachownicy:\n");
     printf("Kazdy ciag cyfr to rozwiazanie zawierajace numery wierszow w kolejnych kolumnach\n");
     //np. jedyne rozwiazanie symetryczne dla n=8 bedzie mialo postac 42061753
